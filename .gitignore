@@ -1,0 +1,10 @@
+node_modules/**
+example
+cypress/reports
+cypress/screenshots
+config/account.js
+config/post.json
+cypress/fixtures/account.js
+cypress/fixtures/post.json
+
+**/.DS_Store
